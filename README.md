@@ -1,5 +1,7 @@
 # vanta-pr-test
 
+Checkpoint F moved-base validation commit.
+
 Throwaway sandbox repository for validating Vanta's GitHub PR integration.
 
 ## What this repo validates
