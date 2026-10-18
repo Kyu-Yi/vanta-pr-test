@@ -9,7 +9,7 @@ def shipping_band(weight_grams):
         raise ValueError("weight_grams must be non-negative")
     if weight_grams < 500:
         return "light"
-    if weight_grams < 1000:
+    if weight_grams <= 1000:
         return "standard"
     return "heavy"
 
