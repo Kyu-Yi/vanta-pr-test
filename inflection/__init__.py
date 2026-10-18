@@ -35,7 +35,7 @@ PLURALS: RegexReplaceList = [
     (r"(?i)([ti])um$", r'\1a'),
     (r"(?i)(buffal|potat|tomat)o$", r'\1oes'),
     (r"(?i)(bu)s$", r'\1ses'),
-    (r"(?i)(alias|status)$", r'\1s'),
+    (r"(?i)(alias|status)$", r'\1es'),
     (r"(?i)(octop|vir)i$", r'\1i'),
     (r"(?i)(octop|vir)us$", r'\1i'),
     (r"(?i)^(ax|test)is$", r'\1es'),
